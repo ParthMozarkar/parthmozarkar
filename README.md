@@ -1,29 +1,54 @@
 <h1 align="center">Parth Mozarkar</h1>
 
 <p align="center">
-  <sub>Computer Science Student · Python · DSA · Logic-first Engineering</sub>
+  <sub>Computer Science · Python · Data Structures · Problem Solving</sub>
 </p>
+
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+from+first+principles;Practicing+DSA+daily;Optimizing+thought+before+code;Calm+code.+Sharp+intent." />
+  <i>Fundamentals first. Everything else follows.</i>
 </p>
 
----
-
-## ⚡ About
-I don’t chase trends.  
-I build **fundamentals that compound**.
-
-- Strong focus on **Data Structures & Algorithms**
-- Write **clean, readable Python**
-- Prefer **clarity over cleverness**
-- Treat code like a system, not a script
+<br/>
+<br/>
 
 ---
 
-## 🧠 Tech Stack
-```txt
-Languages      Python · C · JavaScript
-Core CS        DSA · OOPS · Problem Solving
-Web            HTML · CSS · React (learning)
-Tools          Git · GitHub · VS Code
+## Overview
+I approach software the way engineers approach systems.  
+Slow thinking first. Correctness before speed. Clarity before cleverness.
+
+I’m focused on building a **strong core in computer science**, with special attention to how and why things work under the hood.
+
+---
+
+## Areas of Focus
+- Data Structures & Algorithms
+- Logical problem solving
+- Writing clean, maintainable Python
+- Time and space complexity awareness
+- Exam and interview-oriented preparation
+
+---
+
+## Technical Stack
+```text
+Languages
+  Python
+  C
+  JavaScript
+
+Core Computer Science
+  Data Structures & Algorithms
+  Object Oriented Programming
+
+Web
+  HTML
+  CSS
+  React (learning)
+
+Tools
+  Git
+  GitHub
+  VS Code
