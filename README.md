@@ -88,13 +88,13 @@ Long term, building toward <b>systems and backend work</b>.
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmozarkar&repo=dsa-python&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmozarkar&repo=linked-list-python&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParthMozarkar&repo=dsa-python&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParthMozarkar&repo=linked-list-python&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmozarkar&repo=sorting-algorithms&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmozarkar&repo=string-problems&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParthMozarkar&repo=sorting-algorithms&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParthMozarkar&repo=string-problems&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📊 GitHub Stats
