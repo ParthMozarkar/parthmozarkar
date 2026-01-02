@@ -28,6 +28,10 @@ I approach software the way engineers approach systems.<br/>
 I focus on understanding how and why things work under the hood.
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="65%" />
+</p>
+
 <div align="center">
 
 ## Focus Areas
@@ -42,6 +46,10 @@ Time & Space Complexity<br/>
 Exam & Interview Preparation
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="65%" />
+</p>
+
 <div align="center">
 
 ## Tech Stack
@@ -49,6 +57,10 @@ Exam & Interview Preparation
 <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github&theme=dark" />
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="65%" />
+</p>
 
 <div align="center">
 
@@ -63,6 +75,10 @@ Reducing unnecessary abstraction<br/>
 Building toward <b>systems and backend work</b>.
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="65%" />
+</p>
+
 <div align="center">
 
 ## GitHub Stats
@@ -74,6 +90,10 @@ Building toward <b>systems and backend work</b>.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthmozarkar&theme=transparent&background=0D1117AA&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&hide_border=true" />
 
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <p align="center">
 <i>Consistency compounds.</i>
