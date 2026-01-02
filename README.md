@@ -1,8 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Parth%20Mozarkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:1f3b4d&height=240&section=header&text=Parth%20Mozarkar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=&descAlignY=60" />
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Python+%7C+Data+Structures+%7C+Problem+Solving;Building+from+first+principles;Calm+code.+Sharp+intent." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1600&color=8AB4F8&center=true&vCenter=true&width=620&lines=Computer+Science+Student;Python+%7C+Data+Structures+%7C+Problem+Solving;Building+from+first+principles;Consistency+over+intensity." />
 </p>
+
 
 <p align="center">
   <sub>Computer Science · Python · Data Structures · Problem Solving</sub>
@@ -77,6 +79,23 @@ Long term, building toward <b>systems and backend work</b>.
 <br/>
 
 <div align="center">
+<br/>
+
+<div align="center">
+
+## 📌 Selected Repositories
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmozarkar&repo=dsa-python&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmozarkar&repo=linked-list-python&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmozarkar&repo=sorting-algorithms&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthmozarkar&repo=string-problems&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 📊 GitHub Stats
 
