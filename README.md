@@ -14,7 +14,9 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257470-1f2e8fbb-7f0a-4f3b-9c35-9e4f9d4b9f8b.gif" width="100%" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257470-1f2e8fbb-7f0a-4f3b-9c35-9e4f9d4b9f8b.gif" width="90%" />
+</p>
 
 <br/>
 
@@ -76,6 +78,24 @@ Long term, building toward <b>systems and backend work</b>.
 
 <div align="center">
 
+## 📊 GitHub Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=parthmozarkar&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+## 🐍 Contribution Graph
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<br/>
+
+<p align="center">
+<i>Consistency compounds.</i>
+</p>
