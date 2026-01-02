@@ -23,8 +23,8 @@
 </div>
 
 <p align="center">
-I approach software the way engineers approach systems.<br/>
-<b>Correctness before speed. Clarity before cleverness.</b><br/>
+I approach software the way engineers approach systems.  
+<b>Correctness before speed. Clarity before cleverness.</b>  
 I focus on understanding how and why things work under the hood.
 </p>
 
@@ -39,10 +39,10 @@ I focus on understanding how and why things work under the hood.
 </div>
 
 <p align="center">
-Data Structures & Algorithms<br/>
-Logical Problem Solving<br/>
-Clean Python Implementations<br/>
-Time & Space Complexity<br/>
+Data Structures & Algorithms  
+Logical Problem Solving  
+Clean Python Implementations  
+Time & Space Complexity  
 Exam & Interview Preparation
 </p>
 
@@ -54,9 +54,11 @@ Exam & Interview Preparation
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github&theme=dark" />
-
 </div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github&theme=dark" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="65%" />
@@ -69,25 +71,19 @@ Exam & Interview Preparation
 </div>
 
 <p align="center">
-Strengthening DSA foundations<br/>
-Building daily consistency<br/>
-Reducing unnecessary abstraction<br/>
-Building toward <b>systems and backend work</b>.
+Strengthening DSA foundations  
+Building daily consistency  
+Reducing unnecessary abstraction  
+Building toward <b>systems and backend work</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="65%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" width="85%" />
 </p>
 
 <div align="center">
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=parthmozarkar&show_icons=true&theme=transparent&bg_color=0D1117AA&title_color=E6EDF3&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&cache_seconds=1800" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthmozarkar&layout=compact&theme=transparent&bg_color=0D1117AA&title_color=E6EDF3&text_color=C9D1D9&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parthmozarkar&theme=transparent&background=0D1117AA&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&hide_border=true" />
+## Contribution Activity
 
 </div>
 
@@ -96,5 +92,5 @@ Building toward <b>systems and backend work</b>.
 </p>
 
 <p align="center">
-<i>Consistency compounds.</i>
+  <i>Consistency compounds.</i>
 </p>
