@@ -88,7 +88,10 @@ Building toward <b>systems and backend work</b>
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="700"
+    style="max-width: 100%;"/>
 </p>
 
 <p align="center">
